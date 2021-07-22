@@ -13,7 +13,5 @@ namespace ToolBox.Security.Configuration.Interfaces
         string Role { get; }
         
         string Identifier { get; }
-
-
     }
 }
